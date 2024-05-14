@@ -1,3 +1,4 @@
+# お天気アプリ
 import requests
 from bs4 import BeautifulSoup
 token="WmykvEOULYNUhiwVLnH3ZDqYC5EeaLZs0taZR71nky8"
